@@ -83,18 +83,7 @@
 
 ---
 
-## 📈 GitHub Stats & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maryamakbar-devops&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maryamakbar-devops&theme=tokyonight" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maryamakbar-devops&bg_color=0f172a&color=22c55e&line=38bdf8&point=22c55e&area=true" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 
