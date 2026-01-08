@@ -1,23 +1,23 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:22c55e&height=200&section=header&text=Maryam%20Akbar&fontSize=45&fontAlignY=35&animation=fadeIn&desc=DevOps%20%7C%20Cloud%20Engineer%20%7C%20Automation&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:22c55e&height=200&section=header&text=Maryam%20Akbar&fontSize=45&fontAlignY=35&animation=fadeIn&desc=DevOps%20%7C%20Cloud%20Engineer%20%7C%20MERN%20Stack%20Developer&descAlignY=55" />
 </p>
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=22C55E&size=24&center=true&vCenter=true&width=600&lines=DevOps+%26+Cloud+Engineer;AWS+%7C+Docker+%7C+Kubernetes;CI%2FCD+%7C+Terraform+%7C+Automation;Automate+Everything+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=22C55E&size=24&center=true&vCenter=true&width=700&lines=DevOps+%26+Cloud+Engineer;MERN+Stack+Professional+Developer;AWS+%7C+Docker+%7C+Kubernetes;CI%2FCD+%7C+Terraform+%7C+Automation;Build+Once+Deploy+Everywhere+🚀" />
 </p>
 
 ---
 
 ## 👋 Hi, I'm **Maryam Akbar**
-🚀 **DevOps & Cloud Engineer** passionate about building **scalable, secure, and automated cloud infrastructures** using modern DevOps practices.
+🚀 **DevOps, Cloud & MERN Stack Engineer** passionate about building **end-to-end scalable applications** — from **frontend UI** to **backend APIs** to **cloud-native infrastructure & automation**.
 
-💡 I love turning **manual processes into automated pipelines** and **code into cloud-native solutions**.
+💡 I bridge the gap between **development and operations** by delivering **secure, high-performance, production-ready systems**.
 
 ---
 
-## 🧰 Tech Stack & Tools
+## 🧰 Professional Skills & Tech Stack
 
 ### ☁️ Cloud Platforms
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -41,11 +41,30 @@
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana)
 
-### 🧑‍💻 Scripting & Version Control
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+---
+
+## 💻 MERN Stack – Full-Stack Development
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
+
+### ⚙️ Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+![REST API](https://img.shields.io/badge/REST_API-0EA5E9?style=for-the-badge)
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge)
+
+### 🔐 Authentication & Security
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge)
+![OAuth](https://img.shields.io/badge/OAuth-3C3C3D?style=for-the-badge)
 
 ---
 
@@ -53,15 +72,15 @@
 
 🚀 **Terraform AWS Infrastructure Setup**  
 🔗 https://github.com/maryamakbar-devops/terraform-aws-setup  
-✔️ VPC | EC2 | IAM | Security Groups | Best Practices
 
 ⚙️ **CI/CD Pipeline using Jenkins & Docker**  
 🔗 https://github.com/maryamakbar-devops/jenkins-docker-pipeline  
-✔️ Automated Build → Test → Deploy Pipeline
 
 ☁️ **Kubernetes Cluster Deployment on AWS**  
 🔗 https://github.com/maryamakbar-devops/k8s-aws-deploy  
-✔️ EKS | Load Balancer | Auto Scaling | Monitoring
+
+🧩 **MERN Stack Web Applications**  
+✔️ Authentication | CRUD | REST APIs | Cloud Deployment
 
 ---
 
