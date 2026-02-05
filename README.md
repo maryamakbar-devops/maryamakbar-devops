@@ -89,13 +89,12 @@
 
 📧 **Email:** maryamakbar.devops@gmail.com  
 💼 **LinkedIn:**   https://www.linkedin.com/in/maryam-akbar-66b751282
-💻 **Portfolio:** https://maryamakbar.dev  
-
+💻 **Portfolio:** https://maryamakbar123.github.io/Personal_Portfolio/
 <p align="center">
-  <a href="https://linkedin.com/in/maryamakbar">
+  <a href="https://www.linkedin.com/in/maryam-akbar-66b751282">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://maryamakbar.dev">
+  <a href="https://maryamakbar123.github.io/Personal_Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-22C55E?style=for-the-badge&logo=google-chrome"/>
   </a>
 </p>
