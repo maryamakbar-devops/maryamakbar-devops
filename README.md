@@ -88,7 +88,7 @@
 ## 🌐 Connect With Me
 
 📧 **Email:** maryamakbar.devops@gmail.com  
-💼 **LinkedIn:** https://linkedin.com/in/maryamakbar  
+💼 **LinkedIn:**   https://www.linkedin.com/in/maryam-akbar-66b751282
 💻 **Portfolio:** https://maryamakbar.dev  
 
 <p align="center">
